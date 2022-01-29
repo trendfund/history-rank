@@ -1,0 +1,33 @@
+{
+  "20211114": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "CKB",
+      "ELF",
+      "ETH",
+      "IOST",
+      "LUNA",
+      "ONT",
+      "REN",
+      "STX",
+      "THETA"
+    ]
+  },
+  "20211121": {
+    "count": 11,
+    "symbols": [
+      "BTC",
+      "CKB",
+      "ELF",
+      "ETH",
+      "IOST",
+      "LUNA",
+      "ONT",
+      "REN",
+      "ROSE",
+      "STX",
+      "THETA"
+    ]
+  }
+}

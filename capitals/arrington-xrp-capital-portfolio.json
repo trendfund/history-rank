@@ -1,0 +1,41 @@
+{
+  "20211114": {
+    "count": 14,
+    "symbols": [
+      "ALGO",
+      "AR",
+      "CELR",
+      "CSPR",
+      "DOT",
+      "ELF",
+      "ENJ",
+      "KAVA",
+      "LUNA",
+      "NEAR",
+      "NU",
+      "SKL",
+      "STX",
+      "XRP"
+    ]
+  },
+  "20211121": {
+    "count": 15,
+    "symbols": [
+      "ALGO",
+      "AR",
+      "CELR",
+      "CSPR",
+      "DOT",
+      "ELF",
+      "ENJ",
+      "IMX",
+      "KAVA",
+      "LUNA",
+      "NEAR",
+      "NU",
+      "SKL",
+      "STX",
+      "XRP"
+    ]
+  }
+}

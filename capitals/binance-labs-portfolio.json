@@ -1,0 +1,654 @@
+{
+  "20210321": {
+    "count": 7,
+    "symbols": [
+      "BTT",
+      "CELR",
+      "EGLD",
+      "INJ",
+      "LUNA",
+      "ONE",
+      "ROSE"
+    ]
+  },
+  "20210328": {
+    "count": 12,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP"
+    ]
+  },
+  "20210404": {
+    "count": 12,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210411": {
+    "count": 12,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210418": {
+    "count": 12,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210425": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210502": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210509": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210516": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210523": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210530": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210606": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210613": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210620": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210627": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210704": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210711": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210718": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210725": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210801": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210808": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210815": {
+    "count": 13,
+    "symbols": [
+      "1INCH",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210822": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210829": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210905": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210912": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210919": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20210926": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211003": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211010": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211017": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211024": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211031": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211107": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211114": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BAND",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "SXP",
+      "WIN"
+    ]
+  },
+  "20211121": {
+    "count": 14,
+    "symbols": [
+      "1INCH",
+      "AUDIO",
+      "BTC",
+      "BTT",
+      "EGLD",
+      "ETH",
+      "INJ",
+      "KAVA",
+      "LUNA",
+      "MATIC",
+      "ONE",
+      "ROSE",
+      "SXP",
+      "WIN"
+    ]
+  }
+}

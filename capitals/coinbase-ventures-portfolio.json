@@ -1,0 +1,845 @@
+{
+  "20210124": {
+    "count": 9,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "ETH",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210131": {
+    "count": 10,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210207": {
+    "count": 10,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210214": {
+    "count": 10,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210221": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210228": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210307": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210314": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210321": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210328": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210404": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210411": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210418": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210425": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210502": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210509": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210516": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210523": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210530": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210606": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210613": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210620": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210627": {
+    "count": 15,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210704": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210711": {
+    "count": 15,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210718": {
+    "count": 14,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210725": {
+    "count": 15,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210801": {
+    "count": 15,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210808": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210815": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210822": {
+    "count": 17,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210829": {
+    "count": 17,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210905": {
+    "count": 17,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "DODO",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210912": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210919": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20210926": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211003": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211010": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211017": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211024": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211031": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211107": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211114": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211121": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "20210328": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210404": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210411": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210418": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210425": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210502": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210509": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210516": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210523": {
+    "count": 12,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "HNS",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210530": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210606": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210613": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210620": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210627": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210704": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210711": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210718": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210725": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210801": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210808": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210815": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210822": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210829": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210905": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210912": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210919": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20210926": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211003": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211010": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211017": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211024": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211031": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211107": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211114": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211121": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "MANA",
+      "SKL",
+      "XMR",
+      "XTZ",
+      "ZEC",
+      "ZRX"
+    ]
+  }
+}

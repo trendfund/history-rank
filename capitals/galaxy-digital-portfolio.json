@@ -1,0 +1,398 @@
+{
+  "20210328": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210404": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210411": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210418": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210425": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210502": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210509": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210516": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210523": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210530": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210606": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210613": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210620": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210627": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210704": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210711": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210718": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210725": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210801": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210808": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210815": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210822": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210829": {
+    "count": 7,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "KIN",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210905": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210912": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210919": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20210926": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211003": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211010": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211017": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211024": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211031": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211107": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211114": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211121": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  }
+}

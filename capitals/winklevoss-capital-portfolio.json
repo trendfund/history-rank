@@ -1,0 +1,23 @@
+{
+  "20211114": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211121": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "ROSE",
+      "XTZ",
+      "ZEC"
+    ]
+  }
+}

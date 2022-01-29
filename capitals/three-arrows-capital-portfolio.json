@@ -1,0 +1,676 @@
+{
+  "20210124": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210131": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210207": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210214": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210221": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210228": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210307": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210314": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210321": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210328": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210404": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210411": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210418": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210425": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210502": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210509": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210516": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210523": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210530": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210606": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210613": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210620": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210627": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210704": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210711": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210718": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210725": {
+    "count": 12,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "HXRO",
+      "KNC",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210801": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210808": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210815": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210822": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210829": {
+    "count": 10,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210905": {
+    "count": 11,
+    "symbols": [
+      "AAVE",
+      "BAL",
+      "BTC",
+      "COMP",
+      "DODO",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210912": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210919": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20210926": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211003": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211010": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211017": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211024": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211031": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211107": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211114": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  },
+  "20211121": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
+  }
+}

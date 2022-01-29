@@ -1,0 +1,566 @@
+{
+  "20210411": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "POLS",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210418": {
+    "count": 11,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210425": {
+    "count": 11,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210502": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210509": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210516": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210523": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210530": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210606": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210613": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210620": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210627": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210704": {
+    "count": 11,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210711": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210718": {
+    "count": 11,
+    "symbols": [
+      "ALGO",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210725": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210801": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210808": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210815": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210822": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210829": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210905": {
+    "count": 13,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DODO",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210912": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210919": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20210926": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211003": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211010": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211017": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211024": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211031": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211107": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211114": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  },
+  "20211121": {
+    "count": 12,
+    "symbols": [
+      "ALGO",
+      "ALICE",
+      "ATOM",
+      "CEL",
+      "DOT",
+      "EGLD",
+      "FTT",
+      "ICP",
+      "REEF",
+      "RUNE",
+      "SRM",
+      "WOO"
+    ]
+  }
+}

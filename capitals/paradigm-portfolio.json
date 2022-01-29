@@ -1,0 +1,32 @@
+{
+  "20211114": {
+    "count": 10,
+    "symbols": [
+      "ATOM",
+      "BTC",
+      "COMP",
+      "DYDX",
+      "ETH",
+      "MKR",
+      "NMR",
+      "SC",
+      "SNX",
+      "UNI"
+    ]
+  },
+  "20211121": {
+    "count": 10,
+    "symbols": [
+      "ATOM",
+      "BTC",
+      "COMP",
+      "DYDX",
+      "ETH",
+      "MKR",
+      "NMR",
+      "SC",
+      "SNX",
+      "UNI"
+    ]
+  }
+}
